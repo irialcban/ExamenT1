@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExamenT1</string>
+    <string name="restaurant_name">Nombre del restaurante</string>
+    <string name="action">Introduce tu nombre</string>
+    <string name="time">20:00</string>
+</resources>
