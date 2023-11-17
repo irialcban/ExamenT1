@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">ExamenT1</string>
-    <string name="restaurant_name">Nombre del restaurante</string>
+    <string name="restaurant_name">Restaurante Inventado</string>
     <string name="action">Introduce tu nombre</string>
     <string name="time">20:00</string>
+    <string name="table1">2 asientos</string>
+    <string name="table2">4 asientos</string>
+    <string name="table3">8 asientos</string>
+    <string name="hint">Name...</string>
 </resources>
